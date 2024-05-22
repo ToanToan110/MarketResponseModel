@@ -9,3 +9,12 @@ Imagine we are the member of a Retail/Telcos company and we wants to fuel its gr
 
 # About this Project
 By using the models we have built in the previous articles, we can easily segment the customers and predict their lifetime value (LTV) for targeting purposes. As a side note, we also know what will be our sales numbers. But how we can increase our sales? This notebook show if we do a discount today, how many incremental transactions should we expect.
+
+## Prerequisites
+Package: Pandas, Matplotlib, Numpy
+
+
+## Resources 
+Dataset: This notebook use [Marketing Promotion Campaign Uplift Modelling Dataset](https://www.kaggle.com/datasets/davinwijaya/customer-retention) on Kaggle
+
+# Build Model predict conversion
